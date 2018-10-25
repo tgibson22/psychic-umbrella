@@ -1,0 +1,12 @@
+{
+  "name": "mattsProk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tgibson22/psychic-umbrella.git",
+  "author": "Tim Gibson <tim12069@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
